@@ -40,4 +40,4 @@ Run index.html to start the main application
 ```bash
 index.html
 ```
-[View the live site](https://ozcancevik.github.io/robot-situation-awareness/)
+[View the live site](https://ozcancevik.github.io/Code-Simulator/)
