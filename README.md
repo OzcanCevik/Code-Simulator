@@ -1,4 +1,4 @@
-# Robot Situation Awareness Project
+# Skulpt Powedered 
 
 ## Project Description
 
@@ -6,8 +6,8 @@ This project aims to develop software for a robot to understand its situation an
 
 ## Features
 
-- Collect and process sensor data
-- Situation recognition algorithms
+- index.html use lthisin
+- style.css ffnsfldskfds
 - Decision-making mechanism
 - Appropriate reaction generation
 - Memory file for learning and quick response
