@@ -4,7 +4,7 @@ This repository contains a web-based Python code runner built using Skulpt. You 
 
 Files
 index.html: The main HTML file that sets up the web interface.
--style.css: The CSS file for styling the web interface.
+style.css: The CSS file for styling the web interface.
 script.js: The JavaScript file that contains the logic for running Python code using Skulpt.
 
 How to Use
