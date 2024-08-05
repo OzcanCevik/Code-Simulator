@@ -25,15 +25,17 @@ To clone the project to your local machine, follow these steps:
     ```bash
     git clone https://github.com/OzcanCevik/Code-Simulator/archive/refs/heads/main.zip
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd Code-Simulator
-    ```
 ## Usage
 
 Run index.html to start the main application
 
 ```bash
-index.html
+1. Open the zip you downloaded directly, find index.html and run it
+```
+```bash
+2. To run from the terminal, open the terminal screen and then go to the directory where the project file is located for example
+    cd Desktop/
+        -> cd Code-Simulator-main
+             -> start index.html
 ```
 [View the live site](https://ozcancevik.github.io/Code-Simulator/)
