@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains a web-based Python code runner built using Skulpt. You can run and test Python scripts directly in your browser using the files provided here.
+This repository contains a web-based Python code runner built using Skulpt. Using the provided files, you can run the https://github.com/OzcanCevik/robot-situation-awareness project directly without any additional requirements.
 
 ## Files
 
