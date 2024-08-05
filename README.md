@@ -23,15 +23,11 @@ To clone the project to your local machine, follow these steps:
 
 1. Clone the project:
     ```bash
-    git clone https://github.com/username/robot-situation-awareness.git
+    git clone https://github.com/OzcanCevik/Code-Simulator/archive/refs/heads/main.zip
     ```
 2. Navigate to the project directory:
     ```bash
     cd Code-Simulator
-    ```
-3. download the necessary libraries and add them to the libs folder 
-    ```bash
-    https://github.com/OzcanCevik/Code-Simulator/archive/refs/heads/main.zip
     ```
 ## Usage
 
