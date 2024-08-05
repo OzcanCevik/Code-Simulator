@@ -9,8 +9,8 @@ Files
 
 How to Use
 1. Clone the Repository:
-Clone this repository to your local machine using the following command:
-git clone https://github.com/yourusername/skulpt-python-runner.git
+ Clone this repository to your local machine using the following command:
+ git clone https://github.com/yourusername/skulpt-python-runner.git
 
 2. Download Skulpt:
  Download the Skulpt library from the following link:
