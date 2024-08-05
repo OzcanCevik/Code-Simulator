@@ -31,7 +31,7 @@ To clone the project to your local machine, follow these steps:
     ```
 3. download the necessary libraries and add them to the libs folder 
     ```bash
-    https://github.com/skulpt/skulpt-dist/archive/master.zip
+    https://github.com/OzcanCevik/Code-Simulator/archive/refs/heads/main.zip
     ```
 ## Usage
 
