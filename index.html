@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robot Situation Awareness Project</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-tomorrow.min.css">
+</head>
+<body>
+    <header>
+        <h1>Robot Situation Awareness</h1>
+    </header>
+    <main>
+        <button id="projectButton" class="project-button" onclick="loadRoot()">Robot Situation Awareness Project</button>
+        <div id="navigation" class="navigation hidden">
+            <button id="backButton" class="back-button hidden" onclick="goBack()">Back</button>
+            <div id="fileButtons" class="file-buttons"></div>
+        </div>
+        <div id="fileContent" class="file-content hidden">
+            <pre id="fileCode" class="line-numbers"><code id="codeBlock" class="language-python"></code></pre>
+            <button id="runButton" class="run-button" onclick="runPython()">Run Code</button>
+            <button id="githubButton" class="github-button" onclick="openGitHub()">View on GitHub</button>
+            <pre id="output"></pre>
+        </div>
+        
+        
+    </main>
+    <footer>
+        <p>&copy; 2024 Robot Situation Awareness Project</p>
+    </footer>
+    <!-- Load Prism.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/components/prism-python.min.js"></script>
+    <!-- Load Skulpt -->
+    <script src="libs/skulpt.min.js"></script>
+    <script src="libs/skulpt-stdlib.js"></script>
+
+    <!-- Load custom script -->
+    <script src="script.js"></script>
+</body>
+</html>
